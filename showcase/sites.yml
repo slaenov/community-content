@@ -1995,3 +1995,16 @@
     - Tailwind
   made_by: Axel Mannessiez
   made_by_url: https://github.com/axmannessiez/IsHelp
+
+  - title: EIDEX
+  url: https://eidex.io
+  description: Cryptocurrency exchange. Self-hosted Strapi powers the entire content layer — blog, crypto glossary, legal pages and coin descriptions — feeding 5,000+ SEO pages in 4 locales (EN/RU/HY/ZH), with a publish-to-search pipeline (Strapi publish webhook → sitemap refresh → IndexNow ping).
+  categories:
+    - Corporate Website
+    - Finance
+    - Crypto
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: EIDEX
+  made_by_url: https://eidex.io
